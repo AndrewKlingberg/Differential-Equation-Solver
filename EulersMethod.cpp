@@ -41,6 +41,3 @@ double yprime(double x, double y)
 {
 	return((x*x) + (y*y));
 }
-
-
-
